@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "m412MdgLhkd4XcGSOeXC7bHYOhyJcElnSkkk4Z3/T7TrrvF3PAQLtuUrIzUJuH6BkMmq/Bh0yAuCXAX1pwJLjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilya\\Desktop\\GetProcess\\GetProcess\\GetProcess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilya\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ilya\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ilya\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ilya\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\ilya\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\ilya\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\ilya\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
